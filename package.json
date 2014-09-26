@@ -1,0 +1,9 @@
+{
+  "name": "cj",
+  "version": "0.1.0",
+  "description": "Convert CSV to JSON on the fly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
