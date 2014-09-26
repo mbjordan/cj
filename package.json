@@ -1,6 +1,6 @@
 {
   "name": "cj",
-  "version": "0.1.0",
+  "version": "0.1.0a",
   "description": "Simple Node.js CSV to JSON conversion",
   "main": "index.js",
   "scripts": {
