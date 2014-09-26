@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mbjordan/cj"
+    "url": "git@github.com:mbjordan/cj.git"
   },
   "author": "Matt Jordan",
   "license": "MIT",
