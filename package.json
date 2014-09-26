@@ -1,9 +1,19 @@
 {
   "name": "cj",
   "version": "0.1.0",
-  "description": "Convert CSV to JSON on the fly",
+  "description": "Simple Node.js CSV to JSON conversion",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mbjordan/cj"
+  },
+  "author": "Matt Jordan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mbjordan/cj/issues"
+  },
+  "homepage": "https://github.com/mbjordan/cj"
 }
